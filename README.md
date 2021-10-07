@@ -68,7 +68,7 @@ Feel free to check the [issues page](https://github.com/uzairali19/task-tracker/
 
 ## Show your support
 
-Please give a ⭐️ if you like this project!
+Please give a ⭐️ if you like this project! Happy Coding!!
 
 ## 📝 License
 
