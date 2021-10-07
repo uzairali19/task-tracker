@@ -22,7 +22,10 @@
     "quotes":"off",
     "object-curly-newline":"off",
     "comma-dangle":"off",
-    "react/prop-types": "off"
+    "react/prop-types": "off",
+    "jsx-a11y/label-has-associated-control":"off",
+    "no-alert":"off",
+    "no-console":"off"
     },
     "ignorePatterns": [
     "dist/",
