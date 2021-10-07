@@ -1,13 +1,8 @@
 import PropTypes from 'prop-types';
 
-function Button({ color, title, onClick }) {
+function Button({ color, title, onClick, backgroundColor }) {
   return (
-    <button
-      className="btn"
-      onClick={onClick}
-      type="submit"
-      style={{ color, backgroundColor: 'green' }}
-    >
+    <button className="btn" onClick={onClick} type="submit" style={{ color, backgroundColor }}>
       {title}
     </button>
   );
