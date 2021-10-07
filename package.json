@@ -2,7 +2,6 @@
   "name": "task-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://uzairali19.github.io/task-tracker",
   "dependencies": {
     "@babel/core": "7.x",
     "@babel/eslint-parser": "7.x",
